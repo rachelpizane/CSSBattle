@@ -1,4 +1,4 @@
-# ⚔️ CSS Battle Challenge Solutions ⚔️
+# ⚔️ CSS Battle Challenge Solutions
 
 [CSSBattle](https://cssbattle.dev/) is an online CSS Code Golfing game. A great way to train your CSS skills.
 
