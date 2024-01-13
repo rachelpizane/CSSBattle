@@ -5,6 +5,7 @@
 
 ## 🔎 Link
 [Try it too and go to battle!](https://cssbattle.dev/play/1)
+<a href="https://cssbattle.dev/play/1" target="_blank">Try it too and go to battle!</a>
 
 ## 💡 Solution
 ```
