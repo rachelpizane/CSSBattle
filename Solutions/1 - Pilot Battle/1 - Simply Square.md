@@ -1,6 +1,6 @@
 # Simply Square
 
-## 💥 Image
+## 💥 Challenge
 ![Simply Square](img/1%20-%20Simply%20Square.png)
 
 ## 🔎 Link
