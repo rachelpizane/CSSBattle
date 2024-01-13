@@ -1,9 +1,10 @@
 # Simply Square
-## 🔎 Link
-[Try too and got to the battle!](https://cssbattle.dev/play/1)
 
 ## 📸 Image
-![](img/1%20-%20Simply%20Square.png)
+![Simply Square](img/1%20-%20Simply%20Square.png)
+
+## 🔎 Link
+[Try too and got to the battle!](https://cssbattle.dev/play/1)
 
 ## 💡 Solution
 ```
