@@ -4,7 +4,7 @@
 ![Simply Square](img/1%20-%20Simply%20Square.png)
 
 ## 🔎 Link
-[Try too and got to the battle!](https://cssbattle.dev/play/1)
+[Try it too and go to battle!](https://cssbattle.dev/play/1)
 
 ## 💡 Solution
 ```
