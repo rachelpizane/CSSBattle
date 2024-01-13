@@ -1,4 +1,4 @@
-# Simply Square
+# #1 - Simply Square
 
 ## 💥 Challenge
 ![Simply Square](img/1%20-%20Simply%20Square.png)
