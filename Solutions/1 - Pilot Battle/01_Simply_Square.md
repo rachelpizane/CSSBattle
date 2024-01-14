@@ -1,7 +1,7 @@
 # #1 - Simply Square
 
 ## 💥 Challenge
-![Simply Square](img/1_SimplySquare.png)
+![Simply Square](img/01_Simply_Square.png)
 
 ## 🔎 Link
 [Try it too and go to battle!](https://cssbattle.dev/play/1)

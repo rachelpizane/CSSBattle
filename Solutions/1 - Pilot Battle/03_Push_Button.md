@@ -1,7 +1,7 @@
 # #3 - Push Button
 
 ## 💥 Challenge
-![Push Button](img/3_PushButton.png)
+![Push Button](img/03_Push_Button.png)
 
 ## 🔎 Link
 [Try it too and go to battle!](https://cssbattle.dev/play/3)

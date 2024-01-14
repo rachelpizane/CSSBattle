@@ -1,7 +1,7 @@
 # #4 - Ups n Downs
 
 ## 💥 Challenge
-![Ups n Downs](img/4_UpsnDowns.png)
+![Ups n Downs](img/04_Ups_n_Downs.png)
 
 ## 🔎 Link
 [Try it too and go to battle!](https://cssbattle.dev/play/4)

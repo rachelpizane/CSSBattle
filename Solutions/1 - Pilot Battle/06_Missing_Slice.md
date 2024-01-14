@@ -1,7 +1,7 @@
 # #6 - Missing Slice
 
 ## 💥 Challenge
-![Missing Slice](img/6_MissingSlice.png)
+![Missing Slice](img/06_Missing_Slice.png)
 
 ## 🔎 Link
 [Try it too and go to battle!](https://cssbattle.dev/play/6)

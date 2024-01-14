@@ -1,7 +1,7 @@
 # #5 - Acid Rain
 
 ## 💥 Challenge
-![Acid Rain](img/5_AcidRain.png)
+![Acid Rain](img/05_Acid_Rain.png)
 
 ## 🔎 Link
 [Try it too and go to battle!](https://cssbattle.dev/play/5)
