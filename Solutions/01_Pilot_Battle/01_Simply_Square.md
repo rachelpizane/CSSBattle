@@ -1,4 +1,3 @@
-[Home](/README.md) | [>>](Solutions/1%20-%20Pilot%20Battle/02_Carrom.md)
 # #1 - Simply Square
 
 ## 💥 Challenge
