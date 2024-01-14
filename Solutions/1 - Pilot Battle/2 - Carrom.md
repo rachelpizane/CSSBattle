@@ -1,7 +1,7 @@
 # #2 - Carrom
 
 ## 💥 Challenge
-![Carrom](img/2%20-%20Carrom.png)
+![Carrom](img/2_Carrom.png)
 
 ## 🔎 Link
 [Try it too and go to battle!](https://cssbattle.dev/play/2)
