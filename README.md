@@ -14,4 +14,8 @@ Here you will find my solutions to some CSSBattle challenges.
 - [#6 - Missing Slice](Solutions/01_Pilot_Battle/06_Missing_Slice.md)
 - [#7 - Leafy Trail](Solutions/01_Pilot_Battle/07_Leafy_Trail.md)
 - [#8 - Forking Crazy](Solutions/01_Pilot_Battle/08_Forking_Crazy.md)
+- [#9 - Tesseract](Solutions/01_Pilot_Battle/09_Tesseract.md)
+- [#10 - Cloaked Spirits](Solutions/01_Pilot_Battle/10_Cloaked_Spirits.md)
+- [#11 - Eye of Sauron](Solutions/01_Pilot_Battle/11_Eye_of_Sauron.md)
+
 
