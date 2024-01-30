@@ -17,6 +17,4 @@ Here you will find my solutions to some CSSBattle challenges.
 - [#9 - Tesseract](Solutions/01_Pilot_Battle/09_Tesseract.md)
 - [#10 - Cloaked Spirits](Solutions/01_Pilot_Battle/10_Cloaked_Spirits.md)
 - [#11 - Eye of Sauron](Solutions/01_Pilot_Battle/11_Eye_of_Sauron.md)
-- [#12 - Wiggly Moustache](Solutions/01_Pilot_Battle/12_Wiggly%20Moustache.md)
-
-
+- [#12 - Wiggly Moustache](Solutions/01_Pilot_Battle/12_Wiggly_Moustache.md)
